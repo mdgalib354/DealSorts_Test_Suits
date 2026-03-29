@@ -20,7 +20,9 @@ As the QA Engineer for this project, I developed a master testing architecture t
 ## Repository Structure
 
 | File/Folder | Description |
+
 DealSorts Full Test Suite.xlsx | DealSorts Sanity Test Suite Strategy.xlsx
+
 The full source of truth. A multi-tab spreadsheet containing 300+ detailed test cases across all 9 modules. |
 Markdown versions of high-priority test cases (Auth, Messaging, Mobile UX) for instant browser viewing. |
 A 20-point "Pulse Check" is used to verify daily deployment. |

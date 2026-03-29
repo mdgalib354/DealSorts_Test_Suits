@@ -20,11 +20,11 @@ As the QA Engineer for this project, I developed a master testing architecture t
 ## Repository Structure
 
 | File/Folder | Description |
-
-|  **[Master_Test_Suite.xlsx](./Master_Test_Suite.xlsx) | The full source of truth. A multi-tab spreadsheet containing 300+ detailed test cases across all 9 modules. |
-|  **[Modules/](./Modules/) | Markdown versions of high-priority test cases (Auth, Messaging, Mobile UX) for instant browser viewing. |
-|  **[Sanity_Checklist.md](./Sanity_Checklist.md) | A 20-point "Pulse Check" used for daily deployment verification. |
-|  **[Bug_Report_Template.md](./Bug_Report_Template.md) | Standardized reporting format used to communicate defects to the development team. |
+DealSorts Full Test Suite.xlsx | DealSorts Sanity Test Suite Strategy.xlsx
+The full source of truth. A multi-tab spreadsheet containing 300+ detailed test cases across all 9 modules. |
+Markdown versions of high-priority test cases (Auth, Messaging, Mobile UX) for instant browser viewing. |
+A 20-point "Pulse Check" is used to verify daily deployment. |
+Standardized reporting format used to communicate defects to the development team. |
 
 -----------
 
